@@ -77,6 +77,9 @@ cd Morocco-Used-Car-Market-Analysis
 # Installer les dépendances
 pip install -r requirements.txt
 
+```
+---
+
 ## 🚀 Exécution
 
 1. Lancez le notebook Jupyter ou le script Python.
